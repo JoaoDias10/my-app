@@ -1,5 +1,3 @@
-
-
 const Main = () => {
     return (
         <main>SIM SR</main>
