@@ -1,10 +1,10 @@
 const Nav = () => {
     return (
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><Link href="#">Home</Link></li>
+          <li><Link href="#">About</Link></li>
+          <li><Link href="#">Services</Link></li>
+          <li><Link href="#">Contact</Link></li>
         </ul>
     )
 }

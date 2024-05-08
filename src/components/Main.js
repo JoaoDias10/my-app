@@ -1,6 +1,11 @@
 const Main = () => {
     return (
-        <main>SIM SR</main>
+        <main>
+            <Routes> 
+                <Route path="/" element={<div>boas</div>}></Route>
+                <Route path="/booking" element={<div>booking</div>}></Route>
+            </Routes>
+        </main>
     )
 }
 
